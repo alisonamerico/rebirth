@@ -2,6 +2,8 @@
 Projeto nascido no curso Python Pro
 
 [![Build Status](https://travis-ci.org/alisonamerico/rebirth.svg?branch=master)](https://travis-ci.org/alisonamerico/rebirth)
+[![Updates](https://pyup.io/repos/github/alisonamerico/rebirth/shield.svg)](https://pyup.io/repos/github/alisonamerico/rebirth/)
+[![Python 3](https://pyup.io/repos/github/alisonamerico/rebirth/python-3-shield.svg)](https://pyup.io/repos/github/alisonamerico/rebirth/)
 
 Suportada a versão 3 do Python
 
