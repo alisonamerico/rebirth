@@ -1,0 +1,1 @@
+web: gunicorn rebirth.wsgi --log-file -
