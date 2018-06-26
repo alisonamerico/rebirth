@@ -8,4 +8,4 @@ def test_status_code(client):
 
 def test_home(client):
     response = client.get('/')
-    dj_assert_contains(response, 'Olá Mundo')
+    dj_assert_contains(response, 'COK Store')
