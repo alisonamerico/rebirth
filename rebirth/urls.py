@@ -21,4 +21,6 @@ from rebirth.core import views as core_views
 urlpatterns = [
     path('admin/', admin.site.urls),
     path('', core_views.home),
+    path('contato/', core_views.contact),
+
 ]
