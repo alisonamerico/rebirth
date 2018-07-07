@@ -42,6 +42,8 @@ INSTALLED_APPS = [
     'collectfast',
     'django.contrib.staticfiles',
     'rebirth.core',
+    'rebirth.produtos',
+
 ]
 
 MIDDLEWARE = [

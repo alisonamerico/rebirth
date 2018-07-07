@@ -13,7 +13,7 @@ def test_status_code(client):
         'COK Store',
         'Contato',
         'Copyright',
-        'href="/contato"',
+        'href="/contato/"',
     ]
 )
 def test_home(client, content):
