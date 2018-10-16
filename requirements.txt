@@ -10,7 +10,7 @@ six==1.11.0
 #AmazonS3
 django-s3-folder-storage==0.5
 django-storages==1.6.6
-boto3==1.7.52
+boto3==1.9.25
 botocore==1.10.50
 jmespath==0.9.3
 s3transfer==0.1.13
