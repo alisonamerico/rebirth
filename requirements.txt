@@ -5,7 +5,7 @@ dj-database-url==0.5.0
 gunicorn==19.8.1
 psycopg2==2.7.5
 psycopg2-binary==2.7.5
-six==1.11.0
+six==1.13.0
 
 #AmazonS3
 django-s3-folder-storage==0.5
