@@ -16,4 +16,4 @@ jmespath==0.9.3
 s3transfer==0.1.13
 docutils==0.14
 python-dateutil==2.7.3
-Collectfast==0.6.2
+Collectfast==2.1.0
