@@ -5,5 +5,5 @@ pycodestyle
 pyflakes
 pytest
 pytest-django
-coverage
+coverage==5.3
 pytest-cov
