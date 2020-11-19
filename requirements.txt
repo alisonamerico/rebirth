@@ -9,4 +9,4 @@ django-s3-folder-storage
 django-storages
 botocore
 s3transfer
-Collectfast
+Collectfast==2.2.0
