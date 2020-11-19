@@ -1,9 +1,0 @@
--r requirements.txt
-
-flake8
-pycodestyle
-pyflakes
-pytest
-pytest-django
-coverage
-pytest-cov
