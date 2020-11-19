@@ -6,4 +6,4 @@ pyflakes
 pytest
 pytest-django
 coverage
-pytest-cov
+pytest-cov==2.10.1
