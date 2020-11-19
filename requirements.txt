@@ -7,6 +7,6 @@ psycopg2-binary
 #AmazonS3
 django-s3-folder-storage
 django-storages
-botocore
+botocore==1.19.21
 s3transfer
 Collectfast
